@@ -1,0 +1,35 @@
+﻿빌드 시작: 2011-12-06 오전 12:33:09
+     1>2 노드의 "C:\Users\문유경\Desktop\최종_prj03_04조_(김문원2010104029,최지영2010104089)\prj03_04조_(김문원2010104029,최지영2010104089)\prj03_04조_(김문원2010104029,최지영2010104089).vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\prj03_04조_(김문원2010104029,최지영2010104089).unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Application.cpp
+         Application.cpp
+     1>c:\users\문유경\desktop\최종_prj03_04조_(김문원2010104029,최지영2010104089)\prj03_04조_(김문원2010104029,최지영2010104089)\photoclass.h(245): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\stdio.h(371) : 'sprintf' 선언을 참조하십시오.
+     1>c:\users\문유경\desktop\최종_prj03_04조_(김문원2010104029,최지영2010104089)\prj03_04조_(김문원2010104029,최지영2010104089)\application.cpp(379): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+     1>c:\users\문유경\desktop\최종_prj03_04조_(김문원2010104029,최지영2010104089)\prj03_04조_(김문원2010104029,최지영2010104089)\application.cpp(567): warning C4018: '<' : signed 또는 unsigned가 일치하지 않습니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\문유경\Desktop\최종_prj03_04조_(김문원2010104029,최지영2010104089)\Debug\prj03_04조_(김문원2010104029,최지영2010104089).exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\prj03_04조_(김문원2010104029,최지영2010104089).exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\문유경\Desktop\최종_prj03_04조_(김문원2010104029,최지영2010104089)\Debug\prj03_04조_(김문원2010104029,최지영2010104089).pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\문유경\Desktop\최종_prj03_04조_(김문원2010104029,최지영2010104089)\Debug\prj03_04조_(김문원2010104029,최지영2010104089).lib" /MACHINE:X86 "Debug\prj03_04조_(김문원2010104029,최지영2010104089).exe.embed.manifest.res"
+         Debug\Application.obj
+         Debug\DoublySortedClass.obj
+         Debug\EventClass.obj
+         Debug\EventString.obj
+         Debug\HistoryClass.obj
+         Debug\PhotoClass.obj
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\prj03_04조_(김문원2010104029,최지영2010104089).exe.embed.manifest" /manifest "Debug\prj03_04조_(김문원2010104029,최지영2010104089).exe.intermediate.manifest"
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         prj03_04조_(김문원2010104029,최지영2010104089).vcxproj -> C:\Users\문유경\Desktop\최종_prj03_04조_(김문원2010104029,최지영2010104089)\Debug\prj03_04조_(김문원2010104029,최지영2010104089).exe
+       FinalizeBuildStatus:
+         "Debug\prj03_04조_(김문원2010104029,최지영2010104089).unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\prj03_04조_(김문원2010104029,최지영2010104089).lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\문유경\Desktop\최종_prj03_04조_(김문원2010104029,최지영2010104089)\prj03_04조_(김문원2010104029,최지영2010104089)\prj03_04조_(김문원2010104029,최지영2010104089).vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:02.26
